@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Habiba Galal</h1>
-<h3 align="center">A passionate Backend developer |Djagno|python</h3>
+<h3 align="center">A passionate software tester with backend background   |Djagno|python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibagalal&label=Profile%20views&color=0e75b6&style=flat" alt="habibagalal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/habibag80586210" target="blank"><img src="https://img.shields.io/twitter/follow/habibag80586210?logo=twitter&style=for-the-badge" alt="habibag80586210" /></a> </p>
 
-- 🔭 I’m currently working on [Dream_house](https://github.com/habibagalal/Dream_house-realstate-website-.git)
-
-- 🌱 I’m currently learning **DJango|python**
+-
 
 - 📫 How to reach me **habibagalal392@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17JDaxPP5tpOLBHwAdCUVvGiMf4p8Fu8S/view?usp=sharing](https://drive.google.com/file/d/17JDaxPP5tpOLBHwAdCUVvGiMf4p8Fu8S/view?usp=sharing)
 
-- ⚡ Fun fact **Good cooker**
 
-### Blogs posts
+-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
